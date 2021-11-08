@@ -367,4 +367,6 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
+.main-content p { margin-bottom: 1em; text-align: justify; }
+
 /*# sourceMappingURL=style.css.map */
